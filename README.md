@@ -1,1 +1,1 @@
-# cnn-model
+#  Image classification using convolutional neural networks
